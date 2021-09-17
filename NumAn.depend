@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618504183 source:d:\okul\Üniversite\2.2\numeric analysis (ceng206)\ödev1\numan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
